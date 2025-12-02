@@ -3,9 +3,131 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About me</title>
+    <title>Nikita Yakovlev - CV</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            margin: 5px 0;
+            font-size: 1.1em;
+            color: #555;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        h2 {
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+            margin-top: 30px;
+            color: #333;
+        }
+        .job, .education, .skills {
+            margin-bottom: 20px;
+        }
+        .job-title {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        .job-company {
+            font-style: italic;
+            color: #555;
+        }
+        .job-date {
+            float: right;
+            color: #777;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
 </head>
 <body>
-    <p>I'm a ServiceNow Developer with more than four years of experience in IT. I have worked on implement ServiceNow Platform.</p>
+
+    <div class="container">
+        <header>
+            <h1>Nikita Yakovlev</h1>
+            <p>Minsk, Belarus • <a href="mailto:nameziz@gmail.com">nameziz@gmail.com</a> • <a href="https://linkedin.com/in/lunix" target="_blank">linkedin.com/in/lunix</a></p>
+        </header>
+
+        <section id="experience">
+            <h2>PROFESSIONAL EXPERIENCE</h2>
+            <div class="job">
+                <span class="job-date">2018-2025</span>
+                <p><span class="job-title">ServiceNow Developer</span><br>
+                <span class="job-company">EPAM, Minsk, Belarus</span></p>
+                <p><strong>Project:</strong> Migrated the existing ITSM solution to the ServiceNow platform, transforming it into a robust enterprise service management solution.</p>
+                <strong>Responsibilities:</strong>
+                <ul>
+                    <li>Designed, configured, and maintained ServiceNow Employee Centers, to enhance user experience and streamline employee self-service processes.</li>
+                    <li>Created and customized portal themes, ensuring alignment with organizational branding and user accessibility standards.</li>
+                    <li>Developed, configured, and styled portal pages, optimizing layout and usability for diverse user needs.</li>
+                    <li>Built and customized widgets to meet specific business requirements, ensuring seamless integration and performance.</li>
+                    <li>Implemented and managed AI Search features, enhancing search accuracy and relevance across the platform.</li>
+                    <li>Configured and enforced Access Control Lists (ACLs) to ensure secure and role-based access to portal resources.</li>
+                </ul>
+            </div>
+            <div class="job">
+                <span class="job-date">2014-2014</span>
+                <p><span class="job-title">IT Help Desk Specialist</span><br>
+                <span class="job-company">EY, Minsk, Belarus</span></p>
+                <ul>
+                    <li>Provide first level technical support for all Computing and Telephony services for all EY Staff based in Russia, Kazakhstan, Belarus.</li>
+                    <li>Under minimal supervision, respond to end user’s inquiries concerning support requests, systems status, and network connectivity, aiming to resolve the issue at first contact.</li>
+                    <li>Active management of the existing support calls in the call logging system in order to provide a first class support service to the user-base</li>
+                    <li>Maintain up to date knowledge of IT Services policies and procedures</li>
+                    <li>Undertake analysis, diagnosis and resolution of client problems via phone, chat and e-mail contact.</li>
+                    <li>Log, troubleshoot, and track problems to a successful conclusion</li>
+                    <li>Escalate unresolved problems to other support groups to expedite resolution.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="education">
+            <h2>EDUCATION</h2>
+            <div class="education">
+                <span class="job-date">2008-2014</span>
+                <p><span class="job-title">BELARUSIAN NATIONAL TECHNICAL UNIVERSITY</span><br>
+                Minsk, Belarus</p>
+                <p>Specialist in the information technology software</p>
+            </div>
+        </section>
+
+        <section id="additional-info">
+            <h2>ADDITIONAL INFORMATION</h2>
+            <div class="skills">
+                <p><strong>Technical Skills:</strong> Javascript, AngularJS, HTML/CSS, Agile, SCRUM</p>
+                <p><strong>Languages:</strong> English (B1)</p>
+            </div>
+        </section>
+
+    </div>
+
 </body>
 </html>
