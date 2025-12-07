@@ -1,0 +1,43 @@
+Nikita Yakovlev
+Minsk, Belarus
+nameziz@gmail.com
+linkedin.com/in/lunix
+
+---
+
+PROFESSIONAL EXPERIENCE
+
+EPAM | Minsk, Belarus
+ServiceNow Developer | 2018 - 2025
+
+- Designed, configured, and maintained ServiceNow Employee Centers, to enhance user experience and streamline employee self-service processes.
+- Created and customized portal themes, ensuring alignment with organizational branding and user accessibility standards.
+- Developed, configured, and styled portal pages, optimizing layout and usability for diverse user needs.
+- Built and customized widgets to meet specific business requirements, ensuring seamless integration and performance.
+- Implemented and managed AI Search features, enhancing search accuracy and relevance across the platform.
+- Configured and enforced Access Control Lists (ACLs) to ensure secure and role-based access to portal resources.
+
+EY | Minsk, Belarus
+IT Help Desk Specialist | 2014 - 2014
+
+- Provided first level technical support for all Computing and Telephony services for all EY Staff based in Russia, Kazakhstan, Belarus.
+- Responded to end user’s inquiries concerning support requests, systems status, and network connectivity, aiming to resolve the issue at first contact.
+- Managed existing support calls in the call logging system to provide a first-class support service.
+- Maintained up-to-date knowledge of IT Services policies and procedures.
+- Undertook analysis, diagnosis, and resolution of client problems via phone, chat, and e-mail.
+- Logged, troubleshot, and tracked problems to a successful conclusion.
+- Escalated unresolved problems to other support groups to expedite resolution.
+
+---
+
+EDUCATION
+
+BELARUSIAN NATIONAL TECHNICAL UNIVERSITY | Minsk, Belarus
+Specialist in Information Technology Software | 2008 - 2014
+
+---
+
+SKILLS
+
+Technical Skills: Javascript, AngularJS, HTML, CSS, Agile, SCRUM
+Languages: English (B1)
