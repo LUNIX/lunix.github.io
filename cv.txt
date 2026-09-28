@@ -7,6 +7,12 @@ linkedin.com/in/lunix
 
 PROFESSIONAL EXPERIENCE
 
+NDA | Minsk, Belarus
+Maintanance Engineer | 2025 - 2026
+
+- Planned, configured, and maintained VApp/VM's on BeCloud.
+- Worked with provider to sort out all issues.
+
 EPAM | Minsk, Belarus
 ServiceNow Developer | 2018 - 2025
 
